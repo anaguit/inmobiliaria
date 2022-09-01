@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/anaguit/inmobiliaria/issues"
   },
-  "homepage": "https://github.com/anaguit/inmobiliaria#readme"
+  "homepage": "https://github.com/anaguit/inmobiliaria#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
