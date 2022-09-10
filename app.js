@@ -12,4 +12,4 @@ app.use(methodOverride("_method"));
 
 app.listen(process.env.PORT || 3000, ()=>{console.log("servidor corriendo")});
 
-//app.get("/", (req,res) => {res.send("funciona")});
+app.get("/", (req,res) => {res.send("funciona")});
